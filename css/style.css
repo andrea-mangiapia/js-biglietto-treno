@@ -1,0 +1,35 @@
+/* RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    background-color: #333333;
+    padding: 100px 0;
+}
+
+.box {
+    background-color: white;
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+}
+h2, h3, .am-km-text {
+    padding-bottom: 20px;
+}
+h2 {
+    font-size: 35px;
+}
+h3 {
+    font-size: 40px;
+    color: green;
+}
+.am-km-text {
+    font-size: 20px;
+}
